@@ -1,0 +1,38 @@
+.post-details-container {
+    margin: 20px;
+  }
+  
+  .post-content {
+    margin-bottom: 30px;
+  }
+  
+  .comments-section {
+    margin-top: 20px;
+  }
+  
+  .comments-list {
+    margin-top: 20px;
+  }
+  
+  .comment-item {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .add-comment-form {
+    margin-top: 30px;
+  }
+  
+  .add-comment-form input,
+  .add-comment-form textarea {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .add-comment-form button {
+    display: block;
+    margin-top: 10px;
+  }
+  
